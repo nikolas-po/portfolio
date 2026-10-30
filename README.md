@@ -1,1 +1,1 @@
-[Сайт] (https://nikolas-po.github.io/portfolio/)
+[Сайт](https://nikolas-po.github.io/portfolio/)
